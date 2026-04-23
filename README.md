@@ -4,7 +4,7 @@ ALTERAÇOES EFETUADAS:
 
 fazer o ficheiro "dias.html" foi ulizado os ficheiros que existiam.
 
-DO : omplementar palcos_view
+DO : implementar palcos_view
 
 DO : imports no views
 
